@@ -31,7 +31,7 @@ Python (Pandas, NumPy)
 
 Matplotlib & Seaborn
 
-Machine Learning (linear Regression, Decision Tree, GridSearchCV)
+Machine Learning (linear Regression, Decision Tree, Random Forest)
 
 Jupyter Notebook
 
