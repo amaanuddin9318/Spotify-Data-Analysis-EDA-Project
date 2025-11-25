@@ -31,6 +31,8 @@ Python (Pandas, NumPy)
 
 Matplotlib & Seaborn
 
+Machine Learning (linear Regression, Decision Tree, GridSearchCV)
+
 Jupyter Notebook
 
 🎯 Purpose
